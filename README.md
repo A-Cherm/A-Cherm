@@ -18,5 +18,5 @@
 
 ### Контакты
 
-- Email: achermnykh@yandex.ru
-- Telegram: @acherm239
+- Email: `achermnykh@yandex.ru`
+- Telegram: `@acherm239`
