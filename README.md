@@ -1,16 +1,22 @@
-## Hi there 👋
+## Привет! Я Александр, начинающий Java-разработчик.
 
-<!--
-**A-Cherm/A-Cherm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Мои проекты
 
-Here are some ideas to get you started:
+- [сервис](https://github.com/A-Cherm/java-explore-with-me), позволяющий пользователям делиться событиями и искать компанию для участия в них
+- [сервис](https://github.com/A-Cherm/java-shareit) для аренды вещей пользователей
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Стек технологий
+
+- Java
+- Spring Boot
+- Maven
+- Hibernate
+- PostgreSQL
+- Querydsl
+- Springdoc-openapi
+- Docker
+
+### Контакты
+
+- Email: achermnykh@yandex.ru
+- Telegram: @acherm239
