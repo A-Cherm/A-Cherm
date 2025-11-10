@@ -4,6 +4,7 @@
 
 - [сервис](https://github.com/A-Cherm/java-explore-with-me), позволяющий пользователям делиться событиями и искать компанию для участия в них
 - [сервис](https://github.com/A-Cherm/java-shareit) для аренды вещей пользователей
+- [сервис](https://github.com/A-Cherm/java-filmorate), работающий с базой данных фильмов
 
 ### Стек технологий
 
